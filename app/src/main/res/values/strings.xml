@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Marvel Universe</string>
+
+    <string-array name="array_list">
+        <item>Iron man</item>
+        <item>Hulk</item>
+        <item>Black widow</item>
+        <item>Black panther</item>
+        <item>Bucky</item>
+        <item>captain america</item>
+        <item>Deadpool</item>
+        <item>Drax</item>
+        <item>Falcon</item>
+        <item>Groot</item>
+        <item>Hawkeye</item>
+        <item>Korg</item>
+        <item>Loki</item>
+        <item>Mantis</item>
+        <item>Nebula</item>
+        <item>Nick fury</item>
+        <item>Okoye</item>
+        <item>Scarlet witch</item>
+        <item>Thanos</item>
+        <item>Thor</item>
+        <item>Vision</item>
+        <item>wasp</item>
+        <item>wolverine</item>
+    </string-array>
+</resources>
